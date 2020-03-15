@@ -1,0 +1,24 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+//////////////////////////////////////////////////
+//
+//           
+//           
+//           Copyright (c) 2020 WeyrSoftware
+//
+//////////////////////////////////////////////////
+//
+//           Includes
+//////////////////////////////////////////////////
+
+//////////////////////////////////////////////////
+extensions: .aspx .ascx
+<%-- 
+Copyright (c) 2020 WeyrSoftware
+--%>
+extensions: .vb
+'license text.
+extensions:  .xml .config .xsd
+<!--
+license text.
+-->

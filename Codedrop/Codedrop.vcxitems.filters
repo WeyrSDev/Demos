@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Bugfix 1.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Demo 1.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Demo 2.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Demo 3.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Demo 4.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Demo 5.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Demo 6.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Work 1.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Work 2.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Work 3.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Work 4.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Work 5.cpp" />
+  </ItemGroup>
+</Project>
