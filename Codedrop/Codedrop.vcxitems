@@ -28,6 +28,12 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch1 Work 5.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 1.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 10.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 11.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 12.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 13.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 14.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 15.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 16.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 2.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 3.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Demo 4.cpp" />
