@@ -34,5 +34,6 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Work 3.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Work 4.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Work 5.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Work 6.cpp" />
   </ItemGroup>
 </Project>
