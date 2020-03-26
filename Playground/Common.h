@@ -11,6 +11,7 @@
 #pragma once
 #include <iostream>
 #include <iomanip>
+#include <vector>
 #include <cstdlib>
 #include <string>
 #include <ctime>
