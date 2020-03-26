@@ -10,9 +10,12 @@
 //////////////////////////////////////////////////
 #pragma once
 #include <iostream>
+#include <iomanip>
+#include <cstdlib>
 #include <string>
+#include <ctime>
 //////////////////////////////////////////////////
-#define VISPACE cout << endl;
+#define VISPACE cout << endl << endl;
 typedef unsigned char viChar;
 /*
 	Fibonacci: 1, 1, 2, 3, 5, 8, 13, 21
