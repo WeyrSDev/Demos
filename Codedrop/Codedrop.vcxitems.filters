@@ -40,5 +40,6 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra array 2.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra array 3.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra array 4.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra array 5.cpp" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,21 @@
+//////////////////////////////////////////////////
+//
+//           
+//           
+//           Copyright (c) 2020 WeyrSoftware
+//
+//////////////////////////////////////////////////
+//
+//           Includes
+//////////////////////////////////////////////////
+#include "Common.h"
+//////////////////////////////////////////////////
+using namespace std;
+
+int main() {
+	char Buffer[80] = { '\0' };
+	cout << "Enter the string: ";
+	cin.get(Buffer, 79);
+	VISPACE
+	cout << "Here's the buffer: " << Buffer << endl;
+}
