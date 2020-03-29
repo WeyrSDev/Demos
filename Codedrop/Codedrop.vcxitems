@@ -49,6 +49,14 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Work 5.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Work 6.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch2 Work 7.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 1.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 2.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 3.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 4.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 5.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 6.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 7.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Demo 8.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra array 1.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra array 2.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra array 3.cpp" />
