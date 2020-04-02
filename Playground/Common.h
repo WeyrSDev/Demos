@@ -10,6 +10,7 @@
 //////////////////////////////////////////////////
 #pragma once
 #include <iostream>
+#include <cmath>
 #include <iomanip>
 #include <vector>
 #include <cstdlib>
