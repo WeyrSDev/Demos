@@ -24,6 +24,9 @@
   <ItemGroup>
     <ClInclude Include="Common.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ch3 Work 2.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{56DAE541-7ADD-4268-A2D7-A7181B7A10E8}</ProjectGuid>
