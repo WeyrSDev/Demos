@@ -57,5 +57,8 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 1.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra factorial 1.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 2.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 3.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 4.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 5.cpp" />
   </ItemGroup>
 </Project>
