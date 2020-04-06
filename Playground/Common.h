@@ -16,6 +16,9 @@
 #include <cstdlib>
 #include <string>
 #include <ctime>
+#include <random>
+#include <conio.h>
+#include <stdlib.h>
 //////////////////////////////////////////////////
 #define VISPACE cout << endl << endl;
 typedef unsigned char viChar;
