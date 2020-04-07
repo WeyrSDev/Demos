@@ -61,6 +61,5 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 4.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 5.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\ch3 Work 6.cpp" />
-    <ClCompile Include="$(MSBuildThisFileDirectory)..\Playground\extra functions 1.cpp" />
   </ItemGroup>
 </Project>
