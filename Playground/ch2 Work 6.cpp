@@ -12,6 +12,8 @@
 //////////////////////////////////////////////////
 using namespace std;
 
+int LinearSearch(int p_data[], int p_searchKey);
+
 int main() {
 	int arrayA[] = { 7, 3, 32, 2, 55, 34, 6, 13, 29, 22, 11, 9, 1, 5, 42, 39, 8 };
 	int l_returnValue = 0, l_length = sizeof(arrayA) / sizeof(arrayA[0]);
@@ -38,4 +40,20 @@ int main() {
 	}
 
 	cout << "Item found at index [" << l_returnValue << "] " << endl;
+}
+
+
+// needs work.
+int LinearSearch(int p_data[], int p_searchKey) {
+	for (int i = 0; i < sizeof(p_data); i++) {
+		if (p_data[i] == p_searchKey) {
+			p_searchKey = i;
+			break;
+		}
+		else {
+			p_searchKey = 0;
+			break;
+		}
+	}
+	return p_searchKey;
 }
